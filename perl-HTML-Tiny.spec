@@ -8,7 +8,7 @@ Summary:	HTML::Tiny - Lightweight, dependency free HTML/XML generation
 #Summary(pl.UTF-8):	
 Name:		perl-HTML-Tiny
 Version:	1.05
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
