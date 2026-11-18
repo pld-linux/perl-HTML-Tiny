@@ -7,13 +7,13 @@
 Summary:	HTML::Tiny - Lightweight, dependency free HTML/XML generation
 #Summary(pl.UTF-8):	
 Name:		perl-HTML-Tiny
-Version:	1.05
-Release:	2
+Version:	1.08
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/HTML/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	f683dbc8e4570ba08d0fcb1f50c1b6dc
+Source0:	https://www.cpan.org/authors/id/A/AR/ARISTOTLE/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	0c7c09fba4d296ee89ad4c4ec44ac964
 URL:		http://search.cpan.org/dist/HTML-Tiny/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
